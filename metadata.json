@@ -1,0 +1,6 @@
+{
+  "name": "İstanbul Kadın Dayanışma Haritası",
+  "description": "İstanbul'daki kadın dayanışma merkezleri, kadın danışma merkezleri, ŞÖNİM'ler ve sığınakları içeren interaktif harita ve rehber.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
